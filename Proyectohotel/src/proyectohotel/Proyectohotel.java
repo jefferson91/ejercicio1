@@ -18,7 +18,7 @@ public class Proyectohotel {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JOptionPane.showMessageDialog(null,"Hola ");
+        JOptionPane.showMessageDialog(null,"Hola ");//mensaje
         
     }
     
